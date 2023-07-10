@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\emlak\emlak\bin\Debug\emlak.exe.config
+C:\Users\ASUS\source\repos\emlak\emlak\bin\Debug\emlak.exe
+C:\Users\ASUS\source\repos\emlak\emlak\bin\Debug\emlak.pdb
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.Form1.resources
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.Form2.resources
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.Properties.Resources.resources
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.exe
+C:\Users\ASUS\source\repos\emlak\emlak\obj\Debug\emlak.pdb
